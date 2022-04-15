@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Shadows Into Light';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/shadowsintolight/v14/UqyNK9UOIntux_czAvDQx_ZcHqZXBNQDcg.ttf) format('truetype');
+}
+body {
+  font-family: 'Shadows Into Light', cursive;
+}
