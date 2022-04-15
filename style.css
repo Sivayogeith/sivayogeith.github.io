@@ -7,4 +7,21 @@
 }
 body {
   font-family: 'Shadows Into Light', cursive;
+  background-color: #b9fdf8;
+}
+a {
+  text-decoration: none;
+  color: #3888ff;
+}
+a:hover {
+  color: #25559c;
+}
+.myImg {
+  border-radius: 90px;
+  height: 180px;
+  width: 180px;
+}
+.logo {
+  width: 224px;
+  height: 69px;
 }
